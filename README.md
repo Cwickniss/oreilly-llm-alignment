@@ -32,7 +32,7 @@ This class is an intensive exploration into the alignment of Large Language Mode
 - A practical, hands-on approach to fine-tuning LLMs, with a focus on real-world applications such as generating neutral summaries using T5.
 - A unique opportunity to understand and apply innovative concepts like RLHF, RLAIF, and Constitutional AI in reinforcement learning.
 
-This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), and Constitutional AI, and demonstrate practical applications such as fine-tuning open source LLMs like FLAN-T5 and GPT-2. This course is critical for those keen on deepening their understanding of reinforcement learning, its latest trends, and its application to LLMs.
+This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), and Constitutional AI, and demonstrate practical applications such as fine-tuning open source LLMs like FLAN-T5 and Llama-3. This course is critical for those keen on deepening their understanding of reinforcement learning, its latest trends, and its application to LLMs.
 
 ### Course Set-Up
 
