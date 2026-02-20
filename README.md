@@ -20,13 +20,13 @@ This class is an intensive exploration into the alignment of Large Language Mode
 
 ### Notebooks
 
-- `rlaif.ipynb`: [Investigating Principles of RLAIF and Constituional AI](notebooks/rlaif.ipynb)
-- `Instruction Aligning Llama 3.1 8B`: A workshop in fine-tuning Llama 3.1 8B with instructional data and incorporating further pre-training to update it's knowledge base
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUXME3CcDEqp1eF8j5-z7bdUh2whKvDO?usp=sharing)
-- [Prompt Injection Examples](notebooks/prompt_injection.ipynb) - See how three kinds of prompt innjection attacks can attempt to jailbreak an LLM
+- Red Teaming Benchmark [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZEjJwhtpnh6QXH9VTn5ub599cpxaEHX?usp=sharing)
+
+- Constitutional AI (CAI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NPBsE8BdD7W9SyVh44_7KEt-GdiNZqhv?usp=sharing)
+
+- [Prompt Injection Examples](notebooks/prompt_injection.ipynb) - See how three kinds of prompt injection attacks can attempt to jailbreak an LLM
 
 ## Reinforcement Learning with Large Language Models
-
 
 - An immersive deep dive into advanced concepts of reinforcement learning in the context of LLMs.
 - A practical, hands-on approach to fine-tuning LLMs, with a focus on real-world applications such as generating neutral summaries using T5.
@@ -40,26 +40,15 @@ This training offers an intensive exploration into the frontier of reinforcement
 
 ### Notebooks
 
-**Case Study 1 - Tuning a model with pre-trained off the shelf classifiers**
+- FLAN-T5 PPO - Working with FLAN-T5 models using Reinforcement Learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
 
-- `rl_flan_t5_summaries.ipynb`: [Working with FLAN-T5 models using Reinforcement Learning](notebooks/rl_flan_t5_summaries.ipynb) [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wG8lv6drn872HNZHrT7V9kl6JIF1SXpr?usp=sharing)
+- Reward Modeling - Training a reward model from human preferences [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing)
 
-**Case Study 2 - Building a ChatGPT clone using SFT + RLHF**
+- DPO - Direct Preference Optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mi0yF_wmbn4U7pYkh7WCDdkHD2h7UJxR?usp=sharing)
 
-- Fine-tuning the instruction model for the SAWYER bot [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gN7jsUFQTPAj5uFrq06HcSLQSZzT7hZz?usp=sharing) 
+- RLOO - Reinforcement Learning with Leave-One-Out [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_htV72wgados0kCD2xrKTR6aTOAtqTj7?usp=sharing)
 
-- Training a reward model for the SAWYER bot from human preferences [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVjTzOjXCOM8J6tzgt3LK-D0K-yGWzyI?usp=sharing) 
-
-- Using Reinforcement Learning from Feedback (RLF) to further align SAWYER [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QR_Xf1GsOyChYzReg_JHxsBTrMZ0Vwz6?usp=sharing) 
-
-- Using and Evalauting SAWYER [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUrIbqyKoEjxNyjNI6iuYuSNMyksypEO?usp=sharing)
-
- - Adding further knowledge to SAWYER through SFT [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12JeS96SVLIyY06bzJs96B5PdTt1Pga06?usp=sharing)
-
-**Case Study 3 - Teaching an LLM to reason with GRPO**
-
- - Fine-tuning Qwen with GRPO on GSM8k [![Using SAWYER](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cws1IL_T_0_cP0-cHxFA0FEsXYdiAN_8?usp=sharing)
-
+- GRPO - Fine-tuning with Group Relative Policy Optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cws1IL_T_0_cP0-cHxFA0FEsXYdiAN_8?usp=sharing)
 
 ## Further Resources
 
