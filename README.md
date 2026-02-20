@@ -22,9 +22,10 @@ This class is an intensive exploration into the alignment of Large Language Mode
 
 - Red Teaming Benchmark [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZEjJwhtpnh6QXH9VTn5ub599cpxaEHX?usp=sharing)
 
-- Constitutional AI (CAI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NPBsE8BdD7W9SyVh44_7KEt-GdiNZqhv?usp=sharing)
-
 - [Prompt Injection Examples](notebooks/prompt_injection.ipynb) - See how three kinds of prompt injection attacks can attempt to jailbreak an LLM
+
+- [Scale Supervision Examples](notebooks/scale_supervision.ipynb) - Watch LLMs critique and revise their own responses given a "constitution"
+
 
 ## Reinforcement Learning with Large Language Models
 
@@ -49,6 +50,9 @@ This training offers an intensive exploration into the frontier of reinforcement
 - RLOO - Reinforcement Learning with Leave-One-Out [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_htV72wgados0kCD2xrKTR6aTOAtqTj7?usp=sharing)
 
 - GRPO - Fine-tuning with Group Relative Policy Optimization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cws1IL_T_0_cP0-cHxFA0FEsXYdiAN_8?usp=sharing)
+
+- Constitutional AI (CAI) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NPBsE8BdD7W9SyVh44_7KEt-GdiNZqhv?usp=sharing)
+
 
 ## Further Resources
 
